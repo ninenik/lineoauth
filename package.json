@@ -1,0 +1,17 @@
+{
+  "name": "lineoauth",
+  "version": "0.0.0",
+  "description": "The PHP library for use with the Line OAuth REST API.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninenik/lineoauth.git"
+  },
+ "keywords": ["line", "api", "oauth", "rest", "social", "line login api", "line oauth"],
+  "author": "Ninenik Narkdee <ninenik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninenik/lineoauth/issues"
+  },
+  "homepage": "https://github.com/ninenik/lineoauth#readme"
+}
