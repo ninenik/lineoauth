@@ -21,6 +21,5 @@
         "psr-4": {
             "Ninenik\\LineOAuth\\": "src"
         }
-    },
-	"minimum-stability": "dev"	
+    }
 }
