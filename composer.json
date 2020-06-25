@@ -1,0 +1,21 @@
+{
+    "name": "ninenik/lineoauth",
+    "type": "library",
+    "description": "The PHP library for use with the Line Login OAuth REST API.",
+    "keywords": ["line", "api", "oauth", "rest", "social", "line login api", "line oauth"],
+    "license": "MIT",
+    "homepage": "https://www.ninenik.com",
+    "authors": [
+        {
+            "name": "Ninenik Narkdee",
+            "email": "ninenik@gmail.com",
+            "homepage": "https://www.ninenik.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ninenik\\LineOAuth\\": "src"
+        }
+    }
+}
