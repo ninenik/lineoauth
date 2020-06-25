@@ -1,6 +1,6 @@
 {
   "name": "lineoauth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The PHP library for use with the Line OAuth REST API.",
   "dependencies": {},
   "repository": {
