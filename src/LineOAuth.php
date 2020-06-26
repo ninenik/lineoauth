@@ -29,7 +29,7 @@ class LineOAuth {
                 'response_type' => 'code', // ไม่แก้ไขส่วนนี้
                 'client_id' => $this->_CLIENT_ID,
                 'redirect_uri' => $this->_CALLBACK_URL,
-                'scope' => 'openid profile,email', // ไม่แก้ไขส่วนนี้
+                'scope' => 'openid profile email', // ไม่แก้ไขส่วนนี้
                 'state' => $_SESSION[$this->_STATE_KEY]
             )
         );
