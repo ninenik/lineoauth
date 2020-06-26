@@ -9,7 +9,7 @@ class LineOAuth {
      
     public function __construct()
     {
-		parent::__construct();
+
     }   
 	
 	public function setapp($_CLIENT_ID,$_CLIENT_SECRET,$_CALLBACK_URL){
